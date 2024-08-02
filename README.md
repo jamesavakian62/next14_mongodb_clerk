@@ -1,3 +1,9 @@
+Next JS MongoDB Clerk Authentication
+
+<img width="2476" alt="Screenshot 2024-08-02 at 3 52 56 PM" src="https://github.com/user-attachments/assets/b0163c66-cf63-488d-b6be-4ce101934688">
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
